@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://avatars.githubusercontent.com/u/93720634?s=200&v=4" alt="Space Software" width="25%" height="25%" />
+</p>
+
 # Space Software
 
 ## About Us
