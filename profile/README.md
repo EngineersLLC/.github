@@ -1,12 +1,12 @@
-<h1 style="display: flex; align-items: center; flex-direction: column;">
-    <img src="../.assets/logo.png" alt="Space Software" width="25%" height="25%" />
-    Space Software
-</h1>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/SpaceSoftwareDev/.github/main/.assets/logo.png" alt="Space Software" width="25%" height="25%" />
+</p>
+<h1 align="center">Space Software</h1>
 
 ----------------------------------------------------------
 
-<h2 style="display: flex; align-items: center;">
-	<img src="../.assets/alt2.png" width="45" style="margin-right: 8px" />
+<h2>
+	<img src="https://raw.githubusercontent.com/SpaceSoftwareDev/.github/main/.assets/alt2.png" width="45" align="center" />
 	About Us
 </h2>
 
@@ -16,8 +16,10 @@ Our vision to future is to get better at app development and make apps that make
 
 ----------------------------------------------------------
 
-<h2 style="display: flex; align-items: center;">
-	<img src="../.assets/alt1.png" width="45" style="margin-right: 8px" />
+
+
+<h2>
+	<img src="https://raw.githubusercontent.com/SpaceSoftwareDev/.github/main/.assets/alt1.png" width="45" align="center" />
 	Technologies & Languages
 </h2>
 
@@ -78,14 +80,14 @@ In the near future we would like to broaden our list of technologies & languages
 ----------------------------------------------------------
 
 
-<h2 style="display: flex; align-items: center;">
-	<img src="../.assets/alt5.png" width="45" style="margin-right: 8px" />
+<h2>
+	<img src="https://raw.githubusercontent.com/SpaceSoftwareDev/.github/main/.assets/alt5.png" width="45" align="center" />
 	Projects
 </h2>
 
-The first project we have done is [<img src="../.assets/memetime.png" width="20" align="center" /> MemeTime](https://github.com/SpaceSoftwareDev/MemeTimeApp)</br> It is currently close source but might be opensourced in the future
+The first project we have done is [<img src="https://raw.githubusercontent.com/SpaceSoftwareDev/.github/main/.assets/memetime.png" width="20" align="center" /> MemeTime](https://github.com/SpaceSoftwareDev/MemeTimeApp)</br> It is currently close source but might be opensourced in the future
 
-The second project we have done is a static website which is [<img src="../.assets/logo.png" width="20" align="center"> Our Website](https://github.com/SpaceSoftwareDev/Website)
+The second project we have done is a static website which is [<img src="https://raw.githubusercontent.com/SpaceSoftwareDev/.github/main/.assets/logo.png" width="20" align="center"> Our Website](https://github.com/SpaceSoftwareDev/Website)
 
 Both of the projects are still work in progress & may change functionality or design frequently
 
